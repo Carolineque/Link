@@ -1,0 +1,25 @@
+body{
+    background-image:url("https://d2w9rnfcy7mm78.cloudfront.net/6625406/original_9e6630d103e2688637cc9b451b50938f.jpg?1585436473?bc=0");
+    background-size: 50%;
+}
+.nav{
+    background-color:steelblue;
+    position:fixed;
+}
+h3{
+    color:antiquewhite;
+
+}
+h1{
+    color:aliceblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 350%;
+}
+p{
+    color:whitesmoke;
+    font-size:medium;
+}
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left: 216px;}
+  }
